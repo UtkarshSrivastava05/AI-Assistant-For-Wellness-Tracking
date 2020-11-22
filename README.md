@@ -1,1 +1,1 @@
-# AI-Assistant-For-Wellness-Tracking-
+# AI Assistant For Wellness Tracking
